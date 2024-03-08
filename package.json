@@ -1,0 +1,24 @@
+{
+  "name": "get_eth_balance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatd/get-eth-balance.git"
+  },
+  "author": "hatd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hatd/get-eth-balance/issues"
+  },
+  "homepage": "https://github.com/hatd/get-eth-balance#readme",
+  "dependencies": {
+    "web3": "^4.5.0",
+    "web3-providers-http": "^4.1.0"
+  }
+}
